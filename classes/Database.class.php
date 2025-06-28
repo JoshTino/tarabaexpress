@@ -1,12 +1,7 @@
 <?php
 
 class Database {
-	/*
-	private $servername = "wgh5.whogohost.com";
-	private $username = "galanews_root";
-	private $password = "jdboy355995899";
-	private $dbname = "galanews_db";
-	*/
+	
 	private $servername = "localhost";
 	private $username = "root";
 	private $password = 995899;
