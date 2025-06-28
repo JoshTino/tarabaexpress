@@ -1,0 +1,9 @@
+This favicon was generated using the following font:
+
+- Font Title: Gowun Batang
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/gowunbatang/v11/ijwNs5nhRMIjYsdSgcMa3wRZ4J7awssxJii23w.ttf
+- Font License: undefined)
+
+"<img src='../newspic<?php".' $setImageDate->setImageDate($idtt);?>'."/<?php".' echo $setImage->setImage($idtt);?>'."'>".
+"<img src='../newspic/<?php".' echo $setImage->setImage($idtt);?>'."'>".
